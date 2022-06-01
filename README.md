@@ -1,6 +1,6 @@
 # Short-Path
-Recherche du plus court chemin - Application sur la réduction d’image - Création d'un package 
-# Recherche du plus court chemin dans un graphe
+# Recherche du plus court chemin - Application sur la réduction d’image - Création d'un package 
+
 
 `ShortPath` est un package R qui permet de déterminer le chemin le plus court d'un graphe depuis un sommet source à partir de deux algorithmes: l'***algorithme de Bellman-Ford*** et l'***algorithme de Dijkstra***.
 
